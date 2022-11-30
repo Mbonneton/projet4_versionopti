@@ -818,7 +818,8 @@ h4 {
 }
 
 .bg-banniere {
-    background-image:linear-gradient(45deg, #33333399, #33333366), url("img/agence-la-panthere.jpg");
+    background-image: linear-gradient(45deg, #33333399, #33333366),url(img/agence-la-panthere.jpg);
+}
 }
 
 .bg-presentation {
