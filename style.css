@@ -678,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
@@ -1035,12 +1035,7 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
-    .col-sm-3{
-        display: flex;
-        flex-direction: column;
-        margin: 1rem;
-
-    }
+    
 }
 
 @media (max-width: 767px) {
