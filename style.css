@@ -418,7 +418,12 @@ nav .caret {
     top: -8px;
     left: 100%;
 }
-
+blockquote{
+    color: #33333366;
+}
+figcaption{
+    color: #33333366;
+}
 .dropdown-menu .dropmenu-flow-right {
     top: 100%;
     left: 0;
