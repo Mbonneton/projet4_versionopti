@@ -418,12 +418,7 @@ nav .caret {
     top: -8px;
     left: 100%;
 }
-blockquote{
-    color: #33333366;
-}
-figcaption{
-    color: #33333366;
-}
+
 .dropdown-menu .dropmenu-flow-right {
     top: 100%;
     left: 0;
@@ -449,6 +444,9 @@ figcaption{
 .mg-lg {
     margin-top: 10px;
     margin-bottom: 40px;
+}
+.parti1{
+    color: #black;
 }
 
 .btn {
