@@ -445,8 +445,11 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 40px;
 }
-.parti1{
-    color: #black;
+blockquote{
+    color: #000;
+}
+figcaption{
+    color: #000;
 }
 
 .btn {
