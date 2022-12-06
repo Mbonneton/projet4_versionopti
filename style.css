@@ -658,7 +658,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    
 }
 
 .container {
@@ -699,7 +699,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #404040;
+    color: #000000;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -788,6 +788,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
+    color: #000;
     
 }
 
