@@ -44,6 +44,9 @@ a:hover {
     padding-left: 0;
     padding-right: 0;
 }
+.text-center white{
+    color: #000000;
+}
 
 .bloc-lg {
     padding: 100px 50px;
