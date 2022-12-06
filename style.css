@@ -194,7 +194,10 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-
+.d-bloc .panel,
+.l-bloc {
+    color: #757575;
+}
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
@@ -229,7 +232,7 @@ a:hover {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: #757575;
+    color: rgba(0, 0, 0, .6);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -740,7 +743,7 @@ h4 {
 }
 
 .white {
-    color: #white;
+    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
@@ -780,7 +783,7 @@ h4 {
 }
 
 .tc-white {
-    color: #white;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
@@ -796,11 +799,11 @@ h4 {
 }
 
 .ltc-white {
-    color: #white;
+    color: #FFFFFF!important;
 }
 
 .ltc-white:hover {
-    color: #white;
+    color: #cccccc!important;
 }
 
 .ltc-atomic-tangerine {
