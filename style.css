@@ -165,7 +165,7 @@ a:hover {
 }
 
 .d-bloc .panel {
-    color: #757575;
+    color: rgba(0, 0, 0, .5);
 }
 
 .d-bloc .panel button:hover {
@@ -196,7 +196,7 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: #757575;
 }
 
 .d-bloc .panel button:hover,
