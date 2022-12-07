@@ -715,6 +715,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     color: #000000;
+    padding: 1rem;
 }
 
 h2 {
