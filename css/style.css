@@ -5,7 +5,7 @@ body {
     overflow-x: hidden;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    color: #ffffff;
+
 
   
 }
@@ -41,7 +41,9 @@ a:hover {
     background-size: cover;
     position: relative;
 }
-
+..text-center{
+    color: #000000;
+}
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
