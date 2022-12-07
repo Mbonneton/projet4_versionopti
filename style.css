@@ -486,7 +486,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 48px;
 }
 
 .icon-lg {
@@ -713,8 +713,7 @@ p {
     max-width: 400px;
     margin: auto auto auto auto;
     color: #000000;
-    width: 48px;
-    height: 48px;
+   
 }
 
 h2 {
