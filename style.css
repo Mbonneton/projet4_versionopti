@@ -487,6 +487,9 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+span{
+    font-size: 48px;
+}
 }
 
 .icon-lg {
