@@ -56,7 +56,7 @@ a:hover {
 
 .bloc-sm {
     padding: 20px 50px;
-    color: #000000;
+
 }
 
 .bg-center,
@@ -178,7 +178,7 @@ a:hover {
     border-color: rgba(0, 0, 0, .7);
 }
 .white{
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .d-bloc .panel .divider-h span {
