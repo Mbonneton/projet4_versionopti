@@ -176,7 +176,7 @@ a:hover {
     border-color: rgba(0, 0, 0, .7);
 }
 .white{
-    color: #ffffff;
+    color: #fffffff;
 }
 
 .d-bloc .panel .divider-h span {
@@ -712,6 +712,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    color: #000000;
 }
 
 h2 {
@@ -733,7 +734,7 @@ h3 {
 }
 
 h1 {
-    color: #white;
+    color: #FFFFFF;
 }
 
 h4 {
