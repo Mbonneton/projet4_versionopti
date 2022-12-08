@@ -698,6 +698,8 @@ p {
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
+    color: #000000;
+    font-size: 1rem;
 }
 
 .h1 {
