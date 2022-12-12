@@ -764,7 +764,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    margin-left: 5rem;
+
 }
 
 .portfolio-row {
@@ -1056,7 +1056,12 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+
     }
+    .portfolio-thumb {
+    margin-bottom: 24px;
+    margin-left: 5rem;
+}
     
 }
 
