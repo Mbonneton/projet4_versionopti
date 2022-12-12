@@ -104,7 +104,7 @@ a:focus {
     background-attachment: fixed;
 }
 button:focus{
-    border: solid 1px blue;
+    border: solid 2px blue;
 }
 .d-bloc {
     color: #000000;
