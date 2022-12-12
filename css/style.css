@@ -553,7 +553,7 @@ a[data-lightbox] {
     position: relative;
     display: block;
     text-align: center;
-    margin-left: 5rem;
+
 }
 
 a[data-lightbox]:hover::before {
@@ -764,6 +764,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin-left: 5rem;
 }
 
 .portfolio-row {
