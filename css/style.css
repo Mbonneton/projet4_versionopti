@@ -20,6 +20,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+a:focus {
+    border: solid 1px blue;
+}
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -107,6 +110,7 @@ a:hover {
 .d-bloc {
     color: #000000;
 }
+
 
 .d-bloc button:hover {
     color: rgb(255, 255, 255);;
@@ -832,9 +836,7 @@ h4 {
     border-color: #364577!important;
 }
 
-.bg-dots-bg {
-    background-image: url("../img/dots-bg.png");
-}
+
 
 .bg-lines-h2-bg {
     background-image: url("../img/lines-h2-bg.png");
