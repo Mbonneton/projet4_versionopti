@@ -109,6 +109,13 @@ button:focus{
 .d-bloc {
     color: #000000;
 }
+.col-sm-6{
+    a{
+        img{
+            margin-left: 5rem;
+        }
+    }
+}
 
 
 .d-bloc button:hover {
