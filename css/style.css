@@ -103,7 +103,9 @@ a:focus {
 .b-parallax {
     background-attachment: fixed;
 }
-
+.bloc-button.btn.btn-lg.btn-block.cta-hero.btn-atomic-tangerine:focus{
+    border: solid 1px blue;
+}
 .d-bloc {
     color: #000000;
 }
